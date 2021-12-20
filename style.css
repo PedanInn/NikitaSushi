@@ -1,0 +1,301 @@
+body{
+    background: #000000;
+    color: white;
+ max-width: 67%;
+
+}
+header{
+ position: absolute;
+width: 1440px;
+height: 141px;
+left: 0px;
+top: 0px;
+}
+.logo{
+position: absolute;
+width: 125.92px;
+height: 127.8px;
+left: 20px;
+top: 14.07px;
+
+border-radius: 180px;
+transform: rotate(-0.49deg);
+}
+nav{
+    position: absolute;
+width: 1278px;
+height: 122px;
+left: 169px;
+top: 0px;
+margin-top: 40px;
+}
+nav a{
+    font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 42px;
+text-decoration: none;
+color: #FFFFFF;
+padding-right: 30px;
+
+}
+
+nav a:hover{
+border:6px botted navy;
+    color:rgb(235, 252, 0) ;
+    transition: 1,5s linear;
+}
+.text :hover{
+    border:6px botted navy;
+    color:rgb(0, 255, 221) ;
+    transition: 3s linear;
+}
+.firs{
+    position: absolute;
+width: 1447px;
+height: 575px;
+left: 0px;
+top: 132px;
+
+}
+.text{
+position: absolute;
+width: 591px;
+height: 378px;
+left: 18px;
+top: 58px;
+}
+.image{
+    position: absolute;
+width: 888px;
+height: 481px;
+left: 559px;
+top: 58px;
+
+
+}
+.order{
+    position: absolute;
+width: 1440px;
+height: 978px;
+left: 0px;
+top: 707px;
+}
+
+.text h1{
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 72px;
+line-height: 84px;
+
+color: #FFFFFF;
+}
+.text a {
+    position: absolute;
+width: 338px;
+height: 96px;
+left: 146px;
+top: 340px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 50px;
+text-decoration: none;
+padding: 10px 90px 10px 90px;
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 36px;
+
+color: #000000;
+}
+
+.text a:hover{
+
+    transition: 0.5s background-color linear;
+}
+.order h2{
+position: relative;
+left: 47px;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 64px;
+line-height: 75px;
+float: left;
+color: #FFE600;
+
+}
+.order p{
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 42px;
+
+color: #FFFFFF;
+
+}
+.top1{
+ position: relative;
+width: 562px;
+height: 120px;
+left: 47px;
+top: 107px;   
+}
+
+.top2{
+    position: relative;
+width: 562px;
+height: 154px;
+left: 393px;
+top: 221px;
+}
+
+.top3{
+    position: relative;
+width: 710px;
+height: 210px;
+left: 737px;
+top: 378px;
+}
+
+.b{
+position: relative;
+width: 363px;
+height: 326px;
+float: right;
+
+transform: matrix(-1, 0, 0, 1, 0, 0)
+}
+
+.c{
+    width: 709px;
+height: 546px;
+}
+
+.about{
+position: absolute;
+width: 1440px;
+height: 630px;
+left: 0px;
+top: 1685px;
+
+}
+
+.about h2{
+position: relative;
+float: right;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 288px;
+line-height: 137px;
+
+color: #FFFFFF;
+}
+
+.about p{
+float: left;
+position: relative;
+left: 54px;
+width: 1063px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+
+color: #FFFFFF;
+}
+
+.second{
+    position: absolute;
+width: 1440px;
+height: 1043px;
+left: 0px;
+top: 2685px;
+}
+
+.second h2{
+position: relative;
+left: 81px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 96px;
+line-height: 112px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.second p{
+position: relative;
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 72px;
+line-height: 84px;
+left: 435px;
+color: #FFFFFF;
+}
+.e {
+width: 167px;
+height: 136px;
+
+border-radius: 50%;
+}
+.d{
+width: 601px;
+height: 330px;
+float: left;
+position: relative;
+left: 920px;
+}
+
+.sales{
+    position: absolute;
+width: 1440px;
+height: 1258px;
+left: 0px;
+top: 3712px;
+}
+.sales h2{
+    position: relative;
+    font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 96px;
+line-height: 112px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.sales p{
+    position: relative;
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 72px;
+line-height: 84px;
+left: 342px;
+color: #FFF7F7;
+text-align: center;
+}
+.i{
+    border-radius: 50%;
+    width: 130px;
+    height: 130px;
+}
+.o{
+    position: relative;
+width: 783px;
+height: 502px;
+left: 549px;
+
+}
